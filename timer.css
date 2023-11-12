@@ -1,0 +1,21 @@
+.timerBox {
+    width: 350px;
+    height: 250px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+#timer {
+    font-size: 100px;
+    text-align: center;
+    margin-top: 50px;
+}
+
+#timerButtons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
