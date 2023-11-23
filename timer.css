@@ -19,3 +19,25 @@
     text-align: center;
     margin-top: 50px;
 }
+
+.ClockBox{
+    width: 350px;
+    height: 250px;
+    border: 1px solid black;
+    margin: 0 auto;
+}
+
+#clock{
+    font-size:50px;
+    text-align: center;
+    margin-top:50px;
+}
+
+#clockButtons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
